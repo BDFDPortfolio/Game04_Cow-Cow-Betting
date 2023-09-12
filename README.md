@@ -1,9 +1,9 @@
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Poker Side Game - Insurance 保险赔率
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Poker Side Game - Cow Cow Betting 牛牛赔率表
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Game03_Insurance.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Game03_Insurance?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/Game03_Insurance?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Game04_Cow-Cow-Betting.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Game04_Cow-Cow-Betting?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/Game04_Cow-Cow-Betting?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
 <div align="center">
@@ -14,11 +14,11 @@
 
 Poker Side Game03 - Insurance
 
-**Project Link:** [Poker Side Game - Insurance](https://bdfdportfolio.tk/Game03_Insurance/)
+**Project Link:** [Poker Side Game - Cow Cow Betting](https://bdfdportfolio.tk/Game04_Cow-Cow-Betting/)
 
 ## Project Description:
 
-Description: Insurance
+Description: Cow Cow Betting
 
 ## Tools Used In This Project
 
@@ -29,7 +29,7 @@ Description: Insurance
 **Projects:** Poker Side Bet Game
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/Game03_Insurance/">Demo Website Link</a>
+Demo: <a href="https://bdfdportfolio.tk/Game04_Cow-Cow-Betting/">Demo Website Link</a>
 
 <div align="center">
 
