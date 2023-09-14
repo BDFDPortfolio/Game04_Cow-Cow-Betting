@@ -827,6 +827,18 @@ p {
   width: 64px;
   height: 64px;
 }
+#fh5co-menus .fh5co-food-menu h2.fh5co-alcohols {
+  padding-left: 65px;
+}
+#fh5co-menus .fh5co-food-menu h2.fh5co-alcohols:before {
+  background: url(../images/cow-cow/lucky-cow.png) no-repeat;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 64px;
+  height: 64px;
+}
 #fh5co-menus .fh5co-food-menu ul {
   padding: 0;
   margin: 0;
