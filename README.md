@@ -14,7 +14,7 @@
 
 Poker Side Game03 - Insurance
 
-**Project Link:** [Poker Side Game - Cow Cow Betting](https://bdfdportfolio.tk/Game04_Cow-Cow-Betting/)
+**Project Link:** [Poker Side Game - Cow Cow Betting](https://bdfdportfolio.github.io/SideGame04_Poker_Cow-Cow-Betting/)
 
 ## Project Description:
 
@@ -29,7 +29,7 @@ Description: Cow Cow Betting
 **Projects:** Poker Side Bet Game
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/Game04_Cow-Cow-Betting/">Demo Website Link</a>
+Demo: <a href="https://bdfdportfolio.github.io/SideGame04_Poker_Cow-Cow-Betting/">Demo Website Link</a>
 
 <div align="center">
 
